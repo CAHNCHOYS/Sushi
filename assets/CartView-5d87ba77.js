@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as t,d as _,b as s,U as c}from"./index-e6c5bcf0.js";const o={class:"cart-page"},r={class:"cart-page__body"},d={__name:"CartView",setup(n){return(p,i)=>(a(),t("div",o,[_("div",r,[s(c)])]))}},u=e(d,[["__scopeId","data-v-7d5a45a0"]]);export{u as default};
